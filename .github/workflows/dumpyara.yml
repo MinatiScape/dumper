@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_0140_all_dWNB6wjSB8AS.ozip
+  ROM_URL: https://cloud.minati.workers.dev/lineage-18.1-20210620-UNOFFICIAL-RMX2185.zip
