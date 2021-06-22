@@ -33,9 +33,9 @@ jobs:
          working-directory: dumpyara
          run: |
               echo "${{ secrets.GIT_TOKEN }}" > .githubtoken
-              echo "${{ secrets.GIT_ORG_NAME }}" > .github_orgname
+              echo "MinatiScape" > .github_orgname
               echo "${{ secrets.BOT_TOKEN }}" > .tgtoken
-              echo "${{ secrets.CHAT_ID }}" > .tgchannel  #or chat group example: @box_dumps
+              echo "@minati_dumps" > .tgchannel  #or chat group example: @box_dumps
 # make sure to change git credentials as in https://github.com/mirrordump/dumpyara/commit/19016994794424b5d88c2e28add1924567b28c38
        - name: Running Dumpyara
          working-directory: dumpyara
