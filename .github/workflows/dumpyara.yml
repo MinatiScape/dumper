@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://downloadmirror.co/2CKm/G550FYXXU1CRD1_G550FYODD1CRD2_INS.zip?download_token=c1ed665619c2c717eb63af0a1779589bd88d68202e637dc941cc4e6075abb061
+  ROM_URL: https://cloud.minati.workers.dev/S5302DDMB1_S5302ODDLJ1_INS.zip
