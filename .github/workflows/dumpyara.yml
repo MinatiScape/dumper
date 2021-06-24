@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://cloud.minati.workers.dev/S5302DDMB1_S5302ODDLJ1_INS.zip
+  ROM_URL: https://cloud.minati.workers.dev/techy.zip
