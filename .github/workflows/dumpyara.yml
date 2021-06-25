@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: http://asia-sysupwsdl.vivoglobal.com/upgrade/official/officialFiles/PD2049F_EX_A_1.76.5-BWDATA-update-full_1621322282.zip
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1989/CPH1989EX_11_OTA_1190_all_BNmwe83KIV98.ozip
