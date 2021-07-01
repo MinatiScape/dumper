@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.36_OTA_0360_all_2104141941_e004acbbe86746b2.zip
+  ROM_URL: ok.com
