@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJCCNXM/lancelot_images_V12.0.1.0.RJCCNXM_20210526.0000.00_11.0_cn_37a823c18d.tgz
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus7Oxygen_14.P.36_OTA_0360_all_2104141941_e004acbbe86746b2.zip
