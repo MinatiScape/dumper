@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: ok.com
+  ROM_URL: https://dl.samarv121.workers.dev/20210707-19217/SM-M205FN_1_20201013014704_1btmbz021c_fac.zip
