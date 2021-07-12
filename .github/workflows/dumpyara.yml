@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://t.me/octavi_os/578?comment=128886
+  ROM_URL: https://drive.reileenhub.xyz/0:/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
