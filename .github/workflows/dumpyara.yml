@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://drive.reileenhub.xyz/0:/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2001/CPH2001PUEX_11_OTA_1530_all_8kCIr2aTykOt.ozip
