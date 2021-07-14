@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH2001/CPH2001PUEX_11_OTA_1530_all_8kCIr2aTykOt.ozip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJOMIXM/merlin_global_images_V12.0.1.0.RJOMIXM_20210520.0000.00_11.0_global_50acc97c41.tgz
