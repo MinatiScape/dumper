@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJQMIXM/miui_LIMEGlobal_V12.0.1.0.RJQMIXM_a8eb7ba048_11.0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/sunfish-rq3a.210805.001.a1-factory-551be12c.zip
