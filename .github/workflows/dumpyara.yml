@@ -43,4 +43,4 @@ jobs:
               ./dumpyara.sh "$ROM_URL"
 #
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.2.0.RJEMIXM/miui_CANNONGGlobal_V12.5.2.0.RJEMIXM_06c158b83a_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.RJQMIXM/miui_LIMEGlobal_V12.0.1.0.RJQMIXM_a8eb7ba048_11.0.zip
